@@ -11,9 +11,9 @@
   "plugins": [
     {
       "name": "miyabi-full",
-      "source": "https://shunsukehayashi.github.io/miyabi-claude-plugins/miyabi-full-v2.0.0.zip",
+      "source": "./plugins/miyabi-full/miyabi-full",
       "version": "2.0.0",
-      "description": "Miyabi 完全パッケージ - 25 Agents + 22 Skills + 50 Commands",
+      "description": "Miyabi 完全パッケージ - 38 Agents + 22 Skills + 50 Commands (統合版)",
       "category": "development",
       "author": {
         "name": "Miyabi",
@@ -23,7 +23,7 @@
     },
     {
       "name": "miyabi-coding-agents",
-      "source": "https://shunsukehayashi.github.io/miyabi-claude-plugins/miyabi-coding-agents-v2.0.0.zip",
+      "source": "./plugins/miyabi-coding-agents-v2.0.0/miyabi-coding-agents",
       "version": "2.0.0",
       "description": "9 Coding Agents",
       "category": "development",
@@ -35,7 +35,7 @@
     },
     {
       "name": "miyabi-business-agents",
-      "source": "https://shunsukehayashi.github.io/miyabi-claude-plugins/miyabi-business-agents-v2.0.0.zip",
+      "source": "./plugins/miyabi-business-agents-v2.0.0/miyabi-business-agents",
       "version": "2.0.0",
       "description": "16 Business Agents",
       "category": "productivity",
@@ -47,7 +47,7 @@
     },
     {
       "name": "miyabi-skills",
-      "source": "https://shunsukehayashi.github.io/miyabi-claude-plugins/miyabi-skills-v2.0.0.zip",
+      "source": "./plugins/miyabi-skills-v2.0.0/miyabi-skills",
       "version": "2.0.0",
       "description": "22 Development Skills",
       "category": "development",
@@ -59,7 +59,7 @@
     },
     {
       "name": "miyabi-commands",
-      "source": "https://shunsukehayashi.github.io/miyabi-claude-plugins/miyabi-commands-v2.0.0.zip",
+      "source": "./plugins/miyabi-commands-v2.0.0/miyabi-commands",
       "version": "2.0.0",
       "description": "50+ Slash Commands",
       "category": "productivity",
@@ -71,7 +71,7 @@
     },
     {
       "name": "miyabi-hooks",
-      "source": "https://shunsukehayashi.github.io/miyabi-claude-plugins/miyabi-hooks-v2.0.0.zip",
+      "source": "./plugins/miyabi-hooks-v2.0.0/miyabi-hooks",
       "version": "2.0.0",
       "description": "Pre/Post Tool Hooks",
       "category": "development",
@@ -83,7 +83,7 @@
     },
     {
       "name": "miyabi-honoka",
-      "source": "https://shunsukehayashi.github.io/miyabi-claude-plugins/miyabi-honoka-v2.0.0.zip",
+      "source": "./plugins/miyabi-honoka-v2.0.0/miyabi-honoka",
       "version": "2.0.0",
       "description": "穂花 - Udemyコース作成Agent",
       "category": "learning",
@@ -95,7 +95,7 @@
     },
     {
       "name": "miyabi-guardian",
-      "source": "https://shunsukehayashi.github.io/miyabi-claude-plugins/miyabi-guardian-v2.0.0.zip",
+      "source": "./plugins/miyabi-guardian-v2.0.0/miyabi-guardian",
       "version": "2.0.0",
       "description": "Guardian - 障害対応Agent",
       "category": "monitoring",
